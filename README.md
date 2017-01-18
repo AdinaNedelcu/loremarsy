@@ -1,0 +1,2 @@
+# loremarsy
+Proiect_asois
